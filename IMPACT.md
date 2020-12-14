@@ -19,5 +19,6 @@ Nations around the world are now looking for a way to reduce air pollution and c
 **_“Note that in addition to these policies that are explicitly implemented to provide incentives for EVs, the current rules on energy taxation in the EU provide a clear incentive as well: Directive 2003/96/EC fixes higher minimum tax rates for transport fuels than taxes on electricity, and these are reflected in higher national rates in almost all countries of the EU. In conjunction with the relatively low energy use of EVs (per kilometer), this leads to a much lower energy tax for EVs than for ICEs, per MJ but even more so per kilometer.”_**
 
 ### Financial Policies
-
+/EUfinancial.png
 ### Non-financial Policies
+/EUnonfinancial.png
